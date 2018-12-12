@@ -4,7 +4,7 @@
     <AssemblyName>SINeDUSTRIES.uEX.Debugging.Runtime</AssemblyName>
     <PackageId>SINeDUSTRIES.uEX.Debugging.Runtime</PackageId>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>0.1.0-debug0003</Version>
+    <Version>0.1.0-debug0008</Version>
     <RootNamespace>SINeDUSTRIES.Unity</RootNamespace>
     <Description>Unity® engine class library for debugging.</Description>
     <FileUpgradeFlags>40</FileUpgradeFlags>
@@ -20,6 +20,6 @@
     <Folder Include="readme\\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\uEX.Runtime\uEX.Runtime.csproj" />
+    <ProjectReference Include="..\..\uEX\Runtime\SINeDUSTRIES.uEX.Runtime.csproj" />
   </ItemGroup>
 </Project>
