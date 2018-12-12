@@ -1,0 +1,12 @@
+{
+    "name": "SINeDUSTRIES.uEX.Debugging.Runtime",
+    "references": [
+        "SINeDUSTRIES.dotEX.Runtime",
+        "SINeDUSTRIES.dotEX.Common.Runtime",
+        "SINeDUSTRIES.uEX.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

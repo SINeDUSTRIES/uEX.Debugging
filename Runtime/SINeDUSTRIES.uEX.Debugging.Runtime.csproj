@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
   <PropertyGroup>
-    <AssemblyName>SINeDUSTRIES.uEX.Debugging.Engine</AssemblyName>
-    <PackageId>uEX.Debugging.Engine</PackageId>
+    <AssemblyName>SINeDUSTRIES.uEX.Debugging.Runtime</AssemblyName>
+    <PackageId>SINeDUSTRIES.uEX.Debugging.Runtime</PackageId>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>0.1.0-debug0003</Version>
     <RootNamespace>SINeDUSTRIES.Unity</RootNamespace>
@@ -20,6 +20,6 @@
     <Folder Include="readme\\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\uEX.Engine\uEX.Engine.csproj" />
+    <ProjectReference Include="..\uEX.Runtime\uEX.Runtime.csproj" />
   </ItemGroup>
 </Project>
